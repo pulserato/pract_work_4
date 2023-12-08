@@ -1,6 +1,6 @@
-<h1 align="center">Description<a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1 align="center">Описание<a href="https://daniilshat.ru/" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Here you can read about the implementation of the code that solves the Collatz hypothesis problem </h3>
+<h3 align="center">Здесь вы можете прочитать о реализации кода, который решает проблему гипотезы Коллатца </h3>
 
 #### Краткое описание задачи, которую выполняет программа:
  *Эта программа генерирует последовательность Сиракуз для заданного числа и предоставляет возможность найти максимальное число в последовательности.*
