@@ -47,4 +47,5 @@ $`n = {3*n + 1}`$
 
 
 ## Графическое представление гипотезы Коллатца 
-![График](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforallxyz.net%2Fa-54&psig=AOvVaw3xEOEQw7l6IOeBpwtucH66&ust=1702634365704000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDcz7nVjoMDFQAAAAAdAAAAABAD)
+![График](https://github.com/pulserato/pract_work_5/blob/master/Colatz.png)
+
